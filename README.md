@@ -9,5 +9,5 @@ explorando como esses conceitos são implementados em um contexto de sistema ban
 
 #
 
-[![Generic badge](https://img.shields.io/badge/DESAFIO-Concluído-green.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/LINGUAGEM-Java-red.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/IDE-IntelliJ-black.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/LINGUAGEM-Java-red.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/IDE-IntelliJ-black.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/STATUS-Concluído-green.svg)](https://shields.io/)
 
